@@ -1,0 +1,47 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyInterpreterInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="ignoredPackages">
+        <value>
+          <list size="3">
+            <item index="0" class="java.lang.String" itemvalue="apt" />
+            <item index="1" class="java.lang.String" itemvalue="core" />
+            <item index="2" class="java.lang.String" itemvalue="Satchmo" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N802" />
+          <option value="N806" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="practice.category.admin.category" />
+          <option value="practice.product.models.product.core" />
+          <option value="product.models" />
+          <option value="practice.category.views.category.category" />
+          <option value="practice.category.serializers.category.category" />
+          <option value="practice.category.views.category.urls" />
+          <option value="practice.ecom.urls.category" />
+          <option value="practice.ecom.urls.practice.category" />
+          <option value="practice.category.urls.category" />
+          <option value="practice.category.urls.v1.category" />
+          <option value="src.products.models.products" />
+          <option value="src.products.admin.products" />
+          <option value="src.category.models.category" />
+          <option value="src.category.admin.category" />
+          <option value="practice.category.models.category.core" />
+          <option value="src.category.models.category.core" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
